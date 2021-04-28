@@ -1,6 +1,5 @@
 var args = process.argv.slice(2);
 var numbers = ["Zero", "One", "Two", "Three", "Four", "Five", "Six", "Seven", "Eight", "Nine"];
-//console.log(args);
 
 var first = true;
 for (let arg of args){
