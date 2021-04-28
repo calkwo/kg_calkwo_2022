@@ -9,3 +9,4 @@ for (let arg of args){
     }
     process.stdout.write(output);
 }
+process.stdout.write("\n");
